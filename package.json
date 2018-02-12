@@ -1,0 +1,16 @@
+{
+  "name": "hello-hyperapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guppy0356/hello-hyperapp.git",
+  "author": "guppy0356 <a_noguchi@libertyfish.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.5.1"
+  },
+  "dependencies": {
+    "hyperapp": "^1.1.2"
+  }
+}
